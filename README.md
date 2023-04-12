@@ -7,6 +7,7 @@ AWS Lambda and Amazon API Gateway.
 What's Here
 -----------
 Hi All
+Welcome
 
 This sample includes:
 
